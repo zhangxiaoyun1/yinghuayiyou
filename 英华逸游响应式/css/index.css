@@ -1,0 +1,36 @@
+.top{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+}
+.btn1{
+    float: right;
+    margin-right: 30px;
+    display: none;
+}
+#cen{
+    width: 100%;
+    background-color: #dddddd;
+    padding-top: 20px;
+}
+#pcjiesong{
+    display: none;
+    height: 195px;
+    background-color: white;
+    margin-top: 10px;
+}
+#luxian2{
+    display: none;
+    margin-left:10px;
+    width:220px;
+    font-size: 26px;
+    line-height: 60px;
+}
+#qianzheng2{
+    display: none;
+    margin-left:10px;
+    width:220px;
+    font-size: 26px;
+    line-height: 60px;
+}
